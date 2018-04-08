@@ -2,6 +2,6 @@
 
 This very little node.js app is a demo app in order to test containers and container systems with load balancers and so on.
 
-It is a silly app that runs an httpd server that shows a hostname info.
+It is a silly app that runs an httpd server that shows a hostname info if it is accessed in 8080 port.
 
 davidfv@gmail.com
