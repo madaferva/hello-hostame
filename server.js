@@ -1,7 +1,7 @@
 var os = require ('os')
 
 var http = require('http');
-var ifaces
+
 var handleRequest = function(request, response) {
   console.log('Received request for URL: ' + request.url);
   response.writeHead(200);
